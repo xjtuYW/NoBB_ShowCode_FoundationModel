@@ -1,1 +1,2 @@
 # NoBB_ShowCode_FoundationModel
+这个仓库主要是一些大模型相关部件的基本实现，这个版本的代码可能会low了点，后续再优化。
